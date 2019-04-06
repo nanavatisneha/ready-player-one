@@ -1,0 +1,540 @@
+<!DOCTYPE html><!--[if lt IE 7]>	  <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]--><!--[if IE 7]>		 <html class="no-js lt-ie9 lt-ie8"> <![endif]--><!--[if IE 8]>		 <html class="no-js lt-ie9"> <![endif]--><!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]--><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" id="view" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="googlebot" content="noodp" />
+<meta name="robots" content="index, follow" />
+<title>Jose Mourinho's Last Stand</title>
+<meta name="description" content="Deliberate isolation. Petty feuds. Constant turmoil. The Manchester United manager wouldn't have it any other way.">
+<meta property="og:description" content="Deliberate isolation. Petty feuds. Constant turmoil. The Manchester United manager wouldn't have it any other way.">
+<meta property="og:site_name" content="ESPN.com">
+<meta property="fb:app_id" content="116656161708917">
+<meta property="og:title" content="Jose Mourinho's Last Stand">
+<meta property="og:type" content="article">
+<meta property="og:image" content="http://a.espncdn.com/photo/2018/1029/r454835_1600x800cc.jpg" />
+<meta name="twitter:site" content="espn">
+<meta name="twitter:image" content="http://a.espncdn.com/photo/2018/1029/r454835_1600x800cc.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="og:url" content="http://www.espn.com/espn/feature/story/_/id/25145480/jose-mourinho-last-stand">
+<link rel="canonical" href="http://www.espn.com/espn/feature/story/_/id/25145480/jose-mourinho-last-stand">
+<link rel="stylesheet" type="text/css" media="screen" href="http://a.espncdn.com/prod/styles/video/2.15.0/espn-web-player-bundle.css" /><link rel="stylesheet" href="http://a.espncdn.com/combiner/c?v=19&css=pagetype/otl/longform_styleguide/css/georgia_v1.css,pagetype/otl/publico/publico_font.css,fonts/bentonsans.css,fonts/bentonsansbold.css,fonts/bentonsansmedium.css,pagetype/otl/longform_styleguide/css/styleguide.css,pagetype/otl/longform_styleguide/css/longform_v8.css" />
+		<script>var _sf_startpt=(new Date()).getTime();</script>
+<script type="text/javascript">var ceID = 25145480;</script><style>div.mod-inline.video-player.full-width .OoyalaVideoPlayer {margin-top: 0;}#main-article {position: relative;top: 20px;padding-bottom: 20px;}</style><script src="http://a.espncdn.com/combiner/c/2?js=jquery-1.8.3.min.js,plugins/jquery.metadata.js,plugins/jquery.pubsub.r5.js,plugins/jquery.subscribe.js,plugins/jquery.colorbox.1.3.14.js,plugins/json2.r3.js,plugins/jquery.hoverIntent.js,plugins/ba-debug-0.4.js,espn.core.duo.r55.js"></script>
+<script src="http://a.espncdn.com/combiner/c/2?js=plugins/conditionizr.min.js,modernizr.custom.35142.js,grantland/grantland.core.js,jquery.sharetools.r15-u4.js,plugins/waypoints.1.0.2.1.js,,plugins/jquery.scrollTo-1.4.3.1-min.js,plugins/skrollr.min.js"></script>
+<script src="http://a.espncdn.com/combiner/c/2?js=video/2.15.0/espn.video.universal.min.js,lodash.min.js&minify=false"></script>
+<script>var ad_site="espn.us.com.eticket",ad_zone="longform",ad_kvps="pgtyp=longform;sp=eticket;nav=true;",ad_swid="",ad_counter=1,ad_ord=Math.floor(9999999999*Math.random()),ad_seg="",ad_mnr=-1<document.cookie.indexOf("grif=1")?"t":"f",ad_ref="other",ad_sp="eticket",ad_pgtyp="longform",ad_pgn="",ref=document.referrer,refsMap={"facebook.com":"facebook","twitter.com|t.co":"twitter","plus.url.google.com|plus.google.com":"googleplus","google.com":"google","bing.com":"bing","yahoo.com":"yahoo","espn.com":"espn"},refKey;for(refKey in refsMap)ref.match(refKey)&&(ad_ref=refsMap[refKey]);
+ad_kvps=ad_kvps+"ref="+ad_ref+";mnr="+ad_mnr+";";ad_swid=jQuery.cookie("SWID");"function"===typeof espn.core.ad_segments&&(ad_seg=espn.core.ad_segments(),null!=ad_seg&&""!=ad_seg&&(ad_kvps+=ad_seg));var ad_u="";null!=ad_swid&&""!=ad_swid&&(ad_u="swid="+ad_swid+";");var ad_breakpointRefresh = true;</script>
+</head>
+<body>
+<!-- begin overlay ad -->
+<div class="ad-box" id="OverlayAdContainer">
+
+<!-- gpt ad type: overlay -->
+<div class="ad-slot ad-slot-overlay" data-slot-type="overlay" data-slot-kvps="pos=outofpage" data-out-of-page="true"></div></div>
+<!-- end overlay ad -->
+<div id="skrollr-body">
+<div id="toolbar"><h1 class="logo "><a title="ESPNFC.com" alt="ESPNFC.com" class="espn" target="_blank" href="http://www.espnfc.com">ESPN</a></h1><ul class="mod-page-actions"><li class="social facebook-recommend"><a href="https://www.facebook.com/sharer.php?u=http%3A%2f%2fwww.espn.com%2fespn%2ffeature%2fstory%2f_%2fid%2f25145480%2fjose%2dmourinho%2dlast%2dstand&t=Jose+Mourinho%27s+Last+Stand" target="_new" rel="nofollow"><span class="sprite-page-actions facebook"></span><span class="label"></span></a><a class="count" href="https://www.facebook.com/sharer.php?u=http%3A%2f%2fwww.espn.com%2fespn%2ffeature%2fstory%2f_%2fid%2f25145480%2fjose%2dmourinho%2dlast%2dstand&t=Jose+Mourinho%27s+Last+Stand" target="_new" rel="nofollow">0</a></li>
+<li class="social twitter-tweet"><a href="http://twitter.com/intent/tweet?url=http%3A%2f%2fwww.espn.com%2fespn%2ffeature%2fstory%2f_%2fid%2f25145480%2fjose%2dmourinho%2dlast%2dstand&text=Jose+Mourinho%27s+Last+Stand" target="_new" rel="nofollow"><span class="sprite-page-actions twitter"></span><span class="label"></span></a><a class="count" href="http://twitter.com/intent/tweet?url=http%3A%2f%2fwww.espn.com%2fespn%2ffeature%2fstory%2f_%2fid%2f25145480%2fjose%2dmourinho%2dlast%2dstand&text=Jose+Mourinho%27s+Last+Stand" target="_new" rel="nofollow">0</a></li>
+<li class="social fb-comments"><a href="http://espn.go.com/espn/conversations/_/id/25145480/jose-mourinho-last-stand" rel="nofollow"><span class="sprite-page-actions comments"></span><span class="label"></span></a><a class="count" href="http://espn.go.com/espn/conversations/_/id/25145480/jose-mourinho-last-stand" rel="nofollow">0</a></li><li class="espn-email"><a id="email-25145480" class="email" href="http://sendtofriend.espn.com/sendtofriend/SendToFriend?id=25145480" target="_new" rel="nofollow"><span class="sprite-page-actions email"></span><span class="label"></span></a></li>
+</ul></div>
+<article id="main-article"><!-- begin banner ad -->
+<div class="ad-box" id="BannerAdContainer">
+
+<!-- gpt ad type: uap_banner -->
+<div class="ad-slot ad-slot-uap_banner" data-slot-type="uap_banner" data-slot-kvps="pos=banner"></div></div>
+<!-- end banner ad -->
+<header id="main-header"><div class="header-image header-image2"><img src="http://a.espncdn.com/photo/2018/1029/r454835_1600x800cc.jpg"></div><hgroup class="header2" style="display: block;"><h1>Jose Mourinho's Last Stand</h1><h2>Deliberate isolation. Petty feuds. Constant turmoil. The Manchester United manager wouldn't have it any other way.</h2><div class="story-metadata-container"><div class="story-metadata"><div class="sub-data first">ESPN FC</div><div class="credit">by <span>Sam Borden</span><span class="artist">Freak City</span></div><div class="sub-data"><time>11/05/18</time></div></div></div><div class="divider-line"></div></hgroup></header><section id="section-1" class="chapter-location" ><div id="container-1" class="container"><hgroup></hgroup>
+
+<p class="disclaimer text-color-red">This is an <a href="http://www.espn.com/soccer/" target="_blank">ESPN FC</a> feature.</p>
+
+<p><span class="dropcap">J</span>ose Mourinho is alone.</p>
+
+<p>It is a late Tuesday afternoon in September. Mourinho is sitting on a fabric-covered bench by the window on the third floor of the Lowry Hotel in Manchester, England. His coaches are off gathering bags and binders. His players are collecting their toiletry kits. A floor below him, the bar has a decent pre-dinner crowd with a festive energy. (Happy Birthday, Maureen!) Outside, the Manchester United bus idles beside a few dozen fans hoping to catch a glimpse of someone famous.</p>
+
+<p>Mourinho waits. He always appears tiny next to his players (he prefers the tallest he can find), but even on his own, left leg crossed over right and hands at the back of an ever-graying head of close-cropped hair, Mourinho's 5-foot-9 frame is wiry -- a popsicle stick in track-suit bottoms.</p>
+
+<p>A rent-a-cop stands by the elevator. A hotel guest gets off, clearly having pressed the wrong button, and the rent-a-cop puts out a meaty hand. The guest looks up and immediately recognizes Mourinho. He calls out, "Give 'em hell, Jose!" (he pronounces it "Jo-zay") and grins. Mourinho's expression is like he just tasted questionable milk. He does not move. He is not looking at his phone. He is not reviewing papers. He is sitting by himself, staring at nothing.</p>
+
+<p>The elevator opens again. Three Manchester United staffers emerge. It is time. Mourinho still doesn't move. There is a beat or two or three (or four). The staffers shuffle awkwardly. Finally, Mourinho stands up. He does not apologize for the weirdness or for spacing out. He just looks at them and then leads the way down to the bus.</p>
+
+<p>There is another game tonight. Another game, another show, another real-time referendum on the carnival that is one of the greatest (and most polarizing) managers in soccer's history leading one of the world's grandest (and most polarizing) clubs into near-daily chaos. His &dollar;385 million team is in sixth place, has already lost to Brighton and Tottenham, and before Thanksgiving, knows it has almost no chance to win the Premier League title. (They'd go on to lose to West Ham as well.) This is Mourinho's life now. He takes a seat at the front of the bus on the right side. The seat next to him is empty.</p>
+
+<p>A short time later at Old Trafford, the Theater of Dreams, the stadium where Manchester United celebrates its 20 league titles and 12 FA Cups, Mourinho watches his players score an early goal in a League Cup match against second-division Derby County. He watches his former player, Frank Lampard, now managing Derby, lead the underdog visitors back level and then, stunningly, in front by a goal. When Manchester United scores an unlikely tying goal in second-half stoppage time, Mourinho gives a single fist pump from the sideline.</p>
+
+<p>During the ensuing shootout, Lampard stands arm-in-arm with his coaches and players; they endure the pressure together. Mourinho stands behind his team, unaccompanied, pacing and frequently looking away from the goal where the kicks are being taken.</p>
+
+<p>Derby wins. The plucky underdogs slay the giant. The Manchester United fans boo (again). Mourinho does a terse TV interview (again). Mourinho makes an unflattering comment about one of his players (again) and a social media controversy ignites (again -- more on that later).</p>
+
+<p>When it's all over and there are crumpled paper napkins whipping around an empty Sir Matt Busby Way, Mourinho and his coaches stay inside the stadium for hours. They sit in Mourinho's office and pore over scouting reports and tactical sheets. They talk about the players and the next game. They plot.</p><div class="pullquote pullquote-1"><p>&#147;Jose [Mourinho] is used to winning. And when he doesn't win, it gets a little more difficult to live with that.&#148;</p><cite>- Ricardo Carvalho</cite></div>
+
+<span class="citation" id="refglossary-0" title="null"></span>
+
+<p>It is after midnight when they leave, closer to 1 a.m. when Mourinho returns to the Lowry. The bar is quiet. The fans and the rent-a-cops are gone.</p>
+
+<p>Mourinho, 55, has been the Manchester United manager for more than two years but the Lowry, a renowned if somewhat tired hotel, remains his home. Pep Guardiola, Manchester City's Catalan coach and Mourinho's longtime nemesis, has embraced living in northern England, opening a restaurant in Manchester and settling in a city center apartment. Mourinho has resisted. His wife and children live 200 miles away, in the London home they moved into during Mourinho's Chelsea days. They rarely come to Manchester.</p>
+
+<p>Rui Faria, Mourinho's longtime assistant, used to live at the Lowry with Mourinho but he resigned in May. Faria wanted to be around his kids, wanted to finally make his own way. Mourinho and Faria had been together for 17 years; Mourinho has told confidantes often how much he misses Faria.</p>
+
+<p>Mourinho strides through the hotel's lobby. It is quiet. No family. No best friend. A team that can't win enough. A group of players who don't want to listen enough or, maybe, are just tired of what they're hearing. The worker buffing the hotel's floor gives Mourinho a small smile as he swishes by.</p>
+
+<p>Mourinho approaches the elevator to go upstairs. To his room. To the turn-down service with the tiny macarons on a china plate. To the white, terry-cloth slippers wrapped in plastic. To the view of a dank river behind the curtains that usually stay drawn.</p>
+
+<p>The light flashes. The bell dings. The doors close. Jose Mourinho is alone again, and the question follows him as the elevator climbs.</p>
+
+<p>Is this what the end looks like?</p>
+
+<hr class="line bg-color-red small">
+
+<div id="photo-25091651" class="image-container"><div class="mod-inline video-player full-width"><img id="photo-25091651" data-src="http://a.espncdn.com/photo/2018/1026/r453201_608x400cc.jpg" data-mobilesrc="http://a.espncdn.com/combiner/i?img=%2fphoto%2f2018%2f1026%2fr453201_608x400cc.jpg" style="width:100%;"><div class="caption"><p>Mourinho and Man United have had a rough start to the season but one senses that struggles inside the club are greater than ones that are evident every time they take the pitch. <span class="credit">Paul Ellis/AFP/Getty Images</span></p></div></div></div>
+ 
+<p><span class="lead-in">The difference between loneliness</span> and solitude is three points every weekend, and for most of his career Mourinho has willingly, if not willfully, separated himself from the pack.</p>
+
+<p>He does it on his own. His nickname is not "The Special Collaborator" or "The Special Delegator." It is "The Special One" -- <i>one</i> -- and Mourinho embraced that designation while racking up titles in Portugal and Italy and Spain and England as the ultimate proof of the concept.</p>
+
+<p>Even with that separation from the rest, though, there was always a kinship between Mourinho and his players. He nurtured it, cared about it, attended to it in ways that allowed the players to believe they were -- well, not equals, no. Never equals. But junior partners, perhaps. They felt they mattered.</p>
+
+<p>When Mourinho was managing at Chelsea the first time, from 2004 to 2007, there was one night when the team was on its bus after defeating Blackburn Rovers, making the drive to the airport for a late flight home. Chelsea had just hired a new team nutritionist, and she made the players focus on their diets intensely. As the bus churned along, the nutritionist prepared healthy meals for the players.</p>
+
+<p>John Terry, the Chelsea defender and leader, walked down the aisle and stopped in front of Mourinho. The manager looked up. "I think the boys need a little reward," Terry said, and Mourinho nodded. There was a day off tomorrow, he replied, nothing to do but some regeneration work and...</p>
+
+<p>Terry interjected. "We need a little reward," he said again, gesturing toward the back of the bus. Mourinho looked past him, saw the nutritionist. He thought for a moment, then said, "Chinese or fish-and-chips?" Terry grinned.</p>
+
+<p>Moments later, after a quick poll among the players, Mourinho instructed the bus driver to pull over. A team trainer was dispatched with orders. Ten minutes later, the bus was on its way again. In the back, the nutritionist fumed; in the front, Mourinho cackled, watching his players gleefully stuff themselves with fried cod and French fries.</p>
+
+<p>"Part of the aura, of his personality, was that when he sat us down he relaxed us instantly," says Lampard, who played five seasons under Mourinho. "He created a real family atmosphere at the time, which was, I think, brilliantly done. It was as magical as any of his tactical talks."</p>
+
+<hr class="line bg-color-red small">
+
+<div class="mod-inline video-player full-width"><a id="video-25165053" class="embed-video" href="http://www.espn.com/video/clip?id=25165053"><span href="#" class="video-icon"></span><img src="http://a.espncdn.com/media/motion/ESPNi/2018/1103/int_181103_The_Best_Mourinho_Moments_2018/int_181103_The_Best_Mourinho_Moments_2018.jpg" width="576" height="324" alt="video" border="0"></a><a id="embedvideo-25165053" style="height:0;" ></a><div class="caption"><strong>The Best Mourinho Moments 2018</strong><p>ESPN revisit some of Jose Mourinho's moments throughout 2018 that include the Manchester United manager walking out of a press conference after their 3-0 defeat to Spurs at Old Trafford.</p></div></div></video1>
+
+<p>That is what makes this noxious chapter with Manchester United so strange. Tepid results for a team like United will always inflame a situation, but the real gasoline in this case has been Mourinho's relationship with his team.</p>
+
+<p>It isn't just grumpiness, either. This time it runs deeper, feels visceral. The misery on Mourinho's face, the dead eyes. It sometimes seems as if he literally cannot stand some of his own players.</p>
+
+<p>That is probably -- probably? -- overstating it. But with Mourinho, the knives plunge deep. In one of his matchday program columns, which is generally a place for managers to toss verbal bouquets, Mourinho writes to the United fans that, in his opinion, their beloved players recently lost their "dignity" because of their performances.</p>
+
+<p>Young players such as Marcus Rashford and Anthony Martial are constant targets for Mourinho, who earlier this year is asked about the pair's feeble performance in place of Romelu Lukaku, and instead of defending them or deflecting the question, says, "For 10 months I get asked, 'Why always Lukaku? Why always Lukaku?' Now you know."</p>
+
+<p>Conceivably, one could argue that Mourinho's barbs have a purpose. Tough love, say, or an attempt to give on-the-rise players a bit more leather in their skin. But how to explain Mourinho's behavior after the Derby loss, which is sealed when Phil Jones misses a penalty kick in the shootout?</p>
+
+<p>After stomping off the field (and even briefly putting an arm around Jones), Mourinho says, with an icy matter-of-factness, that as the shootout stretched on, "I knew we were going to be in trouble" once it became clear Jones would be forced to take a penalty.</p>
+
+<p>And that incident, as much as any, swirls the dynamic between Mourinho and his players into evermore of a toxic cauldron. In this same week, Mourinho strips Paul Pogba of his vice captaincy because he believes Pogba's comments in the press about United's lack of attacking style show immaturity and selfishness. He also reportedly criticizes Antonio Valencia, the team's captain, for not coming to the Derby game even though Mourinho had given Valencia the night off.</p>
+
+<p>Jones. Pogba. Valencia. It doesn't stop. To those around the club, it feels like Mourinho is flailing at whatever -- or whomever -- happens to get in front of him.</p>
+
+<p>All of it is ugly. But the Jones comment, to those who know Mourinho, leaves a different scar. It is a pettier Mourinho, an angrier Mourinho. A Mourinho who is thrashing instead of being calculated, who is humiliating one of his players as opposed to making a point on principle.</p>
+
+<p>"The other stuff was about the team or how it should be run: that's typical Jose," says a longtime colleague of Mourinho's at one of his former clubs. "You might not like it, but there is a point, at least in his own mind.</p>
+
+<p>"Jones though?" the colleague continues. "That made everyone stop. That was something else. It was just flat-out mean."</p><div class="chapter-location" title="section-2"></div></div></section><section id="section-2" class="chapter-location" ><div class="section-photo-break chapter01 header-2" style="background-image: url(http://a.espncdn.com/photo/2018/1026/r453208_1600x1000cc.jpg)"><hgroup><h2 id="chp2"> </h2></hgroup><div class="photo-credit caption"><p>Jose Mourinho is always feuding with someone, whether it be his own players or the media. It becomes a full-out battle during his third season at a club. <span class="credit">Martin Rickett/PA Images/Getty Images</span></p></div></div><div class="container">
+
+<span class="citation" id="refglossary-0" title=" "></span>
+
+<p><span class="lead-in">There is an old</span> saying about how it does no good to water last year's crops but, well, come on.</p>
+
+<p>With Mourinho, the whole story is last year's crops (and the year before that and the year before that). It is always the same with him, always the tale we have heard before. The twists and turns of Mourinho's major coaching stops are soccer's version of a horror-movie franchise: Yes, sure, this time it might be "Halloween" night instead of "Friday the 13th" but everyone knows where this is headed. At some point -- and probably pretty soon -- we're getting to the screaming.</p>
+
+<p>Before the screaming, though, comes the swell. And while Mourinho's detractors may balk at admitting it, Mourinho's rise is undeniably extraordinary.</p>
+
+<p>Think about it: Growing up in Setubal, Portugual, Mourinho worships his father, who is a footballer, but young Jose is a middling talent, and his mother wants him to go to business school anyway. Mourinho loves sports, however, and he becomes a physical education teacher and local coach whose big break arrives in 1992 when Sir Bobby Robson, the English star, takes a coaching job at a Portuguese club and needs an interpreter.</p>
+
+<p>Mourinho, a polyglot, gets the gig. He learns under Robson in Portugal, and stays with him when Robson moves on to Barcelona. When Robson then leaves Barcelona, Mourinho remains at the Catalan club under Louis van Gaal, the Dutch master. In 2000, Mourinho returns to Portugal and by 2002, he is leading Porto.</p>
+
+<p>There, he stuns the world by winning a UEFA Cup in 2003 and, even more exceptionally, a Champions League title in 2004, upending the continental aristocracy by taking a Portuguese team straight through the stalwarts from England and Spain and Germany and France. At just 41, Mourinho is pure Hollywood -- rakish style, sharp wit, smoldering gaze -- and his approach is revolutionary. His tactics are renowned.</p>
+
+<p>"He made you want to run through walls for him because he was so good," says Benni McCarthy, a striker under Mourinho at Porto. "I remember he came to my room the night before we played Manchester United in the Champions League and he told me, 'I know your hold-up play is very good. But for this game, against Gary Neville and Wes Brown, you have to come short and spin behind because they hate to run toward their own goal.'"</p>
+
+<p>McCarthy laughs. "I scored two goals, and after the second, I went to the sideline and he said, 'Did you have a crappy game?' I asked him, 'How did you know?' and he just hugged me and said, 'It's my job.'"</p>
+
+<hr class="line bg-color-red small">
+
+<div id="photo-25091657" class="image-container"><div class="mod-inline video-player full-width"><img id="photo-25091657" data-src="http://a.espncdn.com/photo/2018/1026/r453202_608x600cc.jpg" data-mobilesrc="http://a.espncdn.com/combiner/i?img=%2fphoto%2f2018%2f1026%2fr453202_608x600cc.jpg" style="width:100%;"><div class="caption"><p>Nowhere is Jose Mourinho's stress more obvious than in his relationship with Paul Pogba, left. Their feuding has been a significant distraction this season. <span class="credit">John Peters/Man Utd/Getty Images</span></p></div></div></div>
+
+<p>Mourinho's overarching strategy, from the very beginning, has been to make the other team uncomfortable. Refusing to follow the traditional path of drilling his players on offensive schemes, Mourinho makes it his mission to dominate the game by thwarting whatever it is that his opponent is trying to do. Instead of engaging in a 90-minute duel, with thrusts intended to score, Mourinho's aim is to lean on the other team's throat until, slowly but surely, the foe suffocates.</p>
+
+<p>"He was a coach at that time that was probably a little bit ahead of the rest," says Steve Clarke, who worked under Mourinho at Chelsea.</p>
+
+<p>Mourinho's strategies work, too. He goes from Porto to Chelsea in 2004, where he takes a team that hasn't won a top-division title in a half-century and wins the Premier League in his first year, setting a record for fewest goals allowed in a single season. At Inter Milan, he wins two league titles and another Champions League. At Real Madrid, he delivers the club's first Copa del Rey trophy in 18 years, wins the Spanish league title, reaches the Champions League semifinals and becomes the first manager in history to win league, cup, super cup and league cup titles in four different European countries.</p>
+
+<p>"He loves a team that is well organized," says Ricardo Carvalho, who played for Mourinho at three different clubs. "That is what I will always remember from him, the way he would shout at us to make sure there were no gaps."</p>
+
+<p>It is a staggering run of success, and while other coaches have won more titles, shouldn't there be a premium placed on those who step into the world's game and win across borders?</p>
+
+<p>Early and midcareer Mourinho does that. He wins. A lot. Simultaneously, he embraces the role of soccer's rogue, a pithy and provocative figure who revels equally in being both a prodigy and a charlatan.</p>
+
+<p>He loves being known as the "Special One," calls Arsenal manager Arsene Wenger a "specialist in failure" and says young players "are like melons -- only when you open and taste the melon are you 100 percent sure that the melon is good."</p>
+
+<p>He bemoans certain players who have "Rastafarian" haircuts, suggests George Clooney should play him in a movie, speculates that God "must really think I'm a great guy," says real pressure is "bird flu ... It's not fun and I'm more scared of it than football," and, in one particularly abstract monologue, explains that his injury-riddled but highly paid team is "like having a blanket that is too small for the bed. You pull the blanket up to keep your chest warm and your feet stick out. I cannot buy a bigger blanket because the supermarket is closed. But the blanket is made of cashmere."</p>
+
+<p>Mourinho also demands unflinching control. His scouting reports for each game are so thick that, according to one former player, "they can't even fit under the seat of the car" (which, it should be said, is where some less-analytically inclined players toss them). He favors experienced players who are predictable over young players who may have more upside but are erratic. He likes talented players who are not quite superstars because they are easier to bend to his will.</p>
+
+<p>In short, Mourinho is -- in the words of a former colleague -- a "walking war zone." And he wages battle constantly, reveling in the restorative quality of conflict even as, inevitably, it boils over.</p>
+
+<p>Sometimes, the target is a rival coach (Wenger, Rafa Benitez). Sometimes it is his own team's chairman (Roman Abramovich, Florentino Perez). Sometimes -- more than sometimes, really -- it is one of his players (Pedro Leon, Juan Mata, Iker Casillas, Kevin de Bruyne, Bastian Schweinsteiger -- you get the idea).</p>
+
+<p>With Casillas, a Spanish legend, Mourinho thinks the Madrid captain is disloyal for trying to broker a peace with Barcelona's Xavi in the increasingly nasty <i>Clasico</i> feud. So Mourinho shouts at Casillas in front of his teammates and derisively refers to him only as "the goalkeeper" instead of using his name.</p>
+
+<p>With Leon, Mourinho decides the player's attitude is not suitably humble. So he berates Leon constantly, and according to a story in the Guardian, he once tells Leon that he would not play in the team's next game even if the team plane crashed and everyone on board died.</p>
+
+<p>Not surprisingly, this style is not for everyone. Mourinho hoped to someday manage Barcelona, where he had such a formative experience as a young coach, but in 2008, when the Catalan club has a coveted opening, it hires Guardiola over Mourinho.</p>
+
+<p>It is a straightforward decision, and the rationale is clear. Ferran Soriano, who is a top executive at Barcelona during that period, explains the club's choice this way in Diego Torres's book on Mourinho, "The Special One": "Mourinho is a winner," Soriano says, "but in order to win he generates a level of tension that becomes a problem. It is a problem he chooses... [and] we didn't want it."</p>
+
+<p><i>It is a problem he chooses</i>.</p>
+ 
+<hr class="line bg-color-red small">
+
+<div id="photo-25091669" class="image-container"><div class="mod-inline video-player full-width"><img id="photo-25091669" data-src="http://a.espncdn.com/photo/2018/1026/r453203_608x450cc.jpg" data-mobilesrc="http://a.espncdn.com/combiner/i?img=%2fphoto%2f2018%2f1026%2fr453203_608x450cc.jpg" style="width:100%;"><div class="caption"><p>The way Jose Mourinho treated Phil Jones, left, after their Carabao Cup defeat vs. Derby was beyond his usual manner of publicly criticizing his players. <span class="credit">Martin Rickett/PA Wire/AP Photo</span></p></div></div></div>
+
+<p><span class="lead-in">Almost to a man,</span> those who know Mourinho say the change in him begins during the meltdown in Madrid and crystalizes during the second spell at Chelsea, a transformation so noticeable that, in the words of one former player, the current version of Mourinho is "not the coach I played for."</p>
+
+<p>What shifts? Well, everything and nothing. In May of 2012, two weeks after winning La Liga with Real Madrid, Mourinho signs a four-year contract extension and is hailed as the future of the Spanish giants -- only to flame out spectacularly, as he clashes with Casillas and Sergio Ramos, seethes over the lionization of Guardiola and Barcelona and rages against his boss, Perez. He even goes after his star, Cristiano Ronaldo, who is 27 and in his prime, saying Ronaldo "maybe thinks that he knows everything and the coach cannot improve him anymore."</p>
+
+<p>Within a year, Mourinho is gone but quickly resurfaces for a second run at Chelsea, where he somehow amps up the acrimony even more. There is some decent success (a league title in his second season), but it is undermined by an endless string of erratic behavior which runs the gamut from paranoid complaining about referees to alleged sexual discrimination in 2015, when Chelsea's team doctor, Eva Carneiro, claims Mourinho calls her a "daughter of a whore" after she runs on to the field to treat an injured Chelsea player without consulting him. The case is settled, but it remains a central example of what those around Mourinho see as an increasing -- and disturbing -- focus on blame.</p>
+
+<p>Consider: A week after the Carneiro episode, Mourinho stuns the dressing room by substituting Terry, the longtime central defender and a perpetual 90-minute player, at halftime of a game: a move that, one longtime Chelsea staffer says, feels like "Jose can't fight with the doctor so he's going to fight with the captain."</p>
+
+<p>A clash with a team leader. Lashing out at club staff. A rift with the team's young superstar (this time it is Eden Hazard). Mourinho's defensiveness becomes so consuming that he begins demanding copy approval for any kind of content about the team posted on Chelsea's web site.</p>
+
+<p>In 2016, Mourinho signs a contract extension with Chelsea but -- stop me if you've heard this before -- leaves the club just months later, the wreckage of his final stretch stacked atop the shrapnel he produced in Madrid.</p>
+
+<p>"Jose, he is used to winning," Carvalho says. "And when he doesn't win, it gets a little more difficult to live with that."</p>
+
+<hr class="line bg-color-red small">
+
+<video2></video2>
+ 
+<p><span class="lead-in">And yet, still: it</span> can't be as simple as losing, can it?</p>
+
+<p><i>Can it</i>?</p>
+
+<p>Managing Manchester United is supposed to be a rebirth for Mourinho, who takes over in 2016 and inherits a club that has been (relatively) languishing since Alex Ferguson's retirement, wandering through the morass that was the stewardships of David Moyes and Louis van Gaal. Mourinho, once the genius, is supposed to transform United back into the princes of the game.</p>
+
+<p>It doesn't happen. United wins the second-tier Europa League in Mourinho's first season, which is nice, sure, but feels like a consolation prize and was more dramatic when Mourinho did it with a team like Porto.</p>
+
+<p>Then last season, United finishes second in the Premier League, loses in the FA Cup final and is knocked out of the Champions League in the Round of 16, a drab showing made worse by the impatience of United fans who yearn for the days of attacking and incisive football of Ferguson's day and are unmoved by Mourinho's tight, scripted, stage-managed productions that increasingly seem to end in draws. His players grumble about that, too. This fall, the disappointing results pile up, Mourinho's desolation -- and isolation -- crests.</p>
+
+<p>Off the field, Mourinho draws even deeper into himself. Faria is gone and Mourinho's existence at the Lowry, with his family several hundred miles away, drags on. Even in a spacious River Suite, the walls of any hotel will close in, and as happens with many who spend time alone, Mourinho's list of grievances with the world grows longer.</p>
+
+<p>It is like counting snowflakes in a blizzard: Referees are against him. Opposing coaches are naive or petulant. The players' national teams are not respectful of a club's needs. During a game against Wolves at Old Trafford, Mourinho upbraids a paramedic sitting behind the United bench because the young man tosses a ball that has gone out of bounds directly to a player instead of giving it to Mourinho. Even traffic becomes a problem; twice, the team bus is delayed arriving at matches because of heavy backups on the way to the stadium.</p>
+
+<p>During one of the gridlock episodes, Mourinho actually puts up his hood and walks the final stretch to the stadium instead of sitting on the bus with his players -- a remarkable feat, both for its novelty and the way it allows Mourinho to become a metaphor for himself. "No one recognized me," he says afterward.</p>
+
+<p>Theories abound on what has led Mourinho to this point, and one -- offered by a friend of Mourinho's, it should be said -- is that much of it leads back to Guardiola.</p>
+
+<p>This theory, the friend says, is rooted in the idea that Mourinho, despite his success, has actually been incredibly unlucky during his career.</p>
+
+<hr class="line bg-color-red small">
+
+<div id="photo-25091693" class="image-container"><div class="mod-inline video-player full-width"><img id="photo-25091693" data-src="http://a.espncdn.com/photo/2018/1026/r453209_608x700cc.jpg" data-mobilesrc="http://a.espncdn.com/combiner/i?img=%2fphoto%2f2018%2f1026%2fr453209_608x700cc.jpg" style="width:100%;"><div class="caption"><p>One theory about Jose Mourinho's mood is that he's been exceptionally unlucky to manage big clubs at a time when Pep Guardiola was having success in the same leagues. <span class="credit">Glyn Kirk/AFP/Getty Images</span></p></div></div></div>
+
+<p>Strange as that might seem, think of it this way: Mourinho has been blessed to have two of world soccer's dream jobs -- Real Madrid and Manchester United -- and in both cases ends up with them at perhaps the worst time possible, in large part because of Guardiola.</p>
+
+<p>In the first instance, Mourinho joins Madrid at the height of its crisis period, an era exacerbated by the fact that Guardiola and Barcelona are so innovative and dominant that some regard them as the best in the sport's history. Then, with United, Mourinho takes over the team while it is in the throes of incoherence (despite having previously had decades of sustained excellence) and it is, again, against Guardiola, who this time is at Manchester City, a historically awful club that has suddenly morphed into a powerhouse.</p>
+
+<p>At City, Guardiola has Middle Eastern royalty ownership, endless resources and a business model that is the definition of a modern, progressive football club. At United, traditionally the alpha of Manchester, Mourinho is literally walking to the stadium by himself.</p>
+
+<p>There is no modern football operations department at United, no widespread analytics or forward-thinking data team. There is only a chairman, Ed Woodward, who is a businessman and not a sports executive. United is, in many ways, the same club it was under Ferguson, who retired in 2013.</p>
+
+<p>"The structure is not right for Jose," Mourinho's close friend says. "So he feels attacked. And when Jose feels attacked, he puts his fists up. That is what is happening -- he is walking around with his fists up all the time at Manchester."</p>
+
+<p>It is, to be sure, a sympathetic theory to Mourinho, but it plays to the idea that Mourinho, forever the war-maker, now feels under constant attack: His tactics, once revolutionary, are more common. His motivational techniques, once impenetrable, do not resonate with this generation of young players in the same way. Everyone has dossiers on the opponent now, and the modern player wants to express himself on the field, wants to run freely and create, wants to be built up.</p>
+
+<p>Pogba and stars of his generation do not want to be directed as if they are puppets, yet Mourinho still wants to pull the strings. That he can't has left him with a perpetual pall, a relentless resentment that injects every aspect of his job.</p>
+
+<p>"He's gone from being a ball of energy on the touchline, someone everyone wanted to see and watch because he was so engaging, to this person -- this face -- that has so much misery all over it," a former colleague of Mourinho's says. "And I think the players and fans pick up on that. How can they not?"</p><div class="chapter-location" title="section-3"></div></div></section><section id="section-3" class="chapter-location" ><div class="section-photo-break chapter01 header-3" style="background-image: url(http://a.espncdn.com/photo/2018/1026/r453210_1600x1000cc.jpg)"><hgroup><h2 id="chp3"> </h2></hgroup><div class="photo-credit caption"><p>Jose Mourinho had remarkable success at Chelsea but his time at Real Madrid (one league title, one Copa del Rey) and Man United (one Carabao Cup and the Europa League) has been a disappointment by comparison. <span class="credit">Cesar Manso/AFP/GettyImages</span></p></div></div><div class="container">
+
+<span class="citation" id="refglossary-0" title=" "></span>
+
+<p><span class="lead-in">In September, after United</span> are beaten handily by Tottenham, 3-0, Mourinho comes into the postmatch press conference, and somewhat randomly answers a question about the United fans leaving early by holding up three fingers, which, he says, symbolizes the score of the game but "also means three Premierships, and I won more Premierships alone than the other 19 managers together. Three for me and two for them. Two." He adds, "So respect man. Respect. Respect. Respect." He then leaves the press conference.</p>
+
+<p>As it turns out, this is a theme Mourinho has settled upon. Mourinho uses the same gesture while United is blowing a late lead at Chelsea and the home fans heckle him (presumably reminding them he won three league trophies for them), and does it again when United is losing to Juventus in a Champions League match at Old Trafford and the Italian spectators chant at him (presumably reminding them that he won the treble while at Inter).</p>
+
+<p>Each time he waggles those fingers, Mourinho has a smirk on his face, as if he is schooling the fans who have somehow forgotten his wizardry. At first, it is brashly charming; by the third occasion, though, it is hard not to wonder if Mourinho is becoming blinded by memories of his own grandeur, hard not to feel he isn't much different than the former high school basketball star who slinks about town years after graduation, still wearing his letterman jacket.</p>
+
+<p>It is a remarkable transformation: A man who spent his entire career attacking off the field (even while defending on it) has suddenly become intensely defensive about his legacy, his methods, his accountability. He bemoans the "man-hunting" that follows him, says he will be blamed for Brexit or even if it rains and -- in a sentiment it is hard to imagine him actually believing earlier in his career -- says "sometimes things are not just in the manager's hands" when asked about his United's poor spirit.</p>
+
+<p>Every week, it is something else. Another problem, another slight. Mourinho's entire air becomes riddled to the point that the mere subject of him feels poisonous.</p>
+
+<p>Xabi Alonso, a devout Mourinho defender, does not return multiple messages asking for an interview about his old coach. Massimo Moratti, who hired Mourinho at Inter, declines to talk about him. So does Carlos Carvalhal, who studied for his coaching license alongside Mourinho.</p>
+
+<p>Andre Villas-Boas, another former assistant, listens politely to a question about Mourinho after being reached on the telephone, then says, "I prefer not to speak about him," and apologizes before hanging up.</p>
+
+<p>Both Mourinho and executives at Manchester United decline interview requests as well.</p>
+
+<p>Near the end of October, Mourinho suggests in a news conference that he has no interest in managing anywhere else, saying, "I want to stay here until the final day of my contract, and I would like to stay after my contract runs out as well."</p>
+
+<p>For several reasons, this sentiment is largely met with public bemusement: First, if that were to happen, it would mean Mourinho would manage United for at least four seasons -- the longest tenure at any club in his career.</p>
+
+<p>And second, of course, Mourinho's statement seems to presuppose that remaining or not remaining with United will be his choice. At a news conference before one of City's matches before Halloween, Guardiola -- of course it is Guardiola -- says he believes now that there are only five teams truly threatening for the Premier League title: City, Liverpool, Chelsea, Tottenham and Arsenal. "I don't have any doubt about that," he says, and it is yet another reminder that United, the club with more than twice as many Premier League titles as any other in England, isn't even in the conversation.</p>
+
+<p>Now, could Mourinho engineer a massive turnaround? Could he galvanize a group of players who have bucked against him, marshal a fan base that is split on him and save a season that feels already lost? Maybe. But if he can't, and he does go, it is difficult to see what comes next. In the past, there was always an obvious turn, a clear path. Not this time.</p>
+
+<hr class="line bg-color-red small">
+
+<div id="photo-25091710" class="image-container"><div class="mod-inline video-player full-width"><img id="photo-25091710" data-src="http://a.espncdn.com/photo/2018/1026/r453211_608x450cc.jpg" data-mobilesrc="http://a.espncdn.com/combiner/i?img=%2fphoto%2f2018%2f1026%2fr453211_608x450cc.jpg" style="width:100%;"><div class="caption"><p>Can Jose Mourinho, left, galvanize Man United and get them back on a winning path? It's possible, but be prepared for many more bumps along the way. <span class="credit">Martin Rickett/PA Images/Getty Images</span></p></div></div></div>
+
+<p>Of the biggest-name European clubs, Paris Saint-Germain is an obvious candidate for Mourinho, but PSG has a new young coach. A move to Germany and a club like Bayern Munich has never felt like a fit. Many believe Mourinho will someday manage Portugal's national team, but if Mourinho didn't like not having his players for a few weeks after the World Cup this past summer, how will he tolerate only having control of his team for fits and starts during the scattered international breaks?</p>
+
+<p>So maybe back to Italy. Or Portugal. Or to a place like China or the Middle East for a big payday. Or even to Real Madrid, which has already fired its manager this season and will be looking for a permanent replacement. (One Real board member, speaking before the club made its change to an interim coach, says of Mourinho, "It's possible, but not probable.")</p>
+
+<p>All that seems certain is that Mourinho will not fade away. He will not step back gracefully. He will not wilt. He likes the grind too much, likes the war too much, likes holding up his three fingers to remind people where he came from and what he has done. It is why he still lives in the Lowry.</p>
+
+<p>"Football is his life," Lampard says. "and he's had so much success. I don't think [having] so much success makes you not want any more ... I think it [does make] you want more."</p>
+
+<p>Of course it does. It is why the "Special One" keeps chasing. Why he keeps working. Why, just before 8 a.m. on the morning after the grim Cup loss to Derby, with only a few hours of sleep and squabbles bubbling and speculation rippling and the odds on his departure from United falling shorter and shorter, Mourinho gets off the elevator. He steps through the lobby, slips out the glass front door of the Lowry, slides down the stairs and sinks into the soft leather backseat of a waiting sedan. He is headed to Carrington, United's training ground, for another day of practice, another day at the center of the circus.</p>
+
+<p>For Mourinho, it is all he knows. The car pulls away from the curb and he looks out the window. The seat next to him is empty.</p>
+
+<!-- Start Single Editor -->
+<div class="line thin greyline spacer-bottom-24"></div>
+<div class="editor-blurb-picture"><img src="http://a.espncdn.com/combiner/i?img=/i/columnists/full/borden_sam.png&w=214&h=214&scale=crop&transparent=true&location=center&grayscale=true"></div>
+<div class="editor-blurb-text"><span class="editor-author">Sam Borden</span>Borden is a senior writer for ESPN. He previously worked for The New York Times as a foreign correspondent based in Paris.</div>
+<div class="clear"></div>
+<!-- End Single Editor -->
+
+</section>
+</article>
+
+<!-- Start Related Stories -->
+<div class="related-container spacer-top-32 padding-bottom-32">
+<div class="subhead alt padding-top-16 padding-bottom-32">You May Also Be Interested In</div>
+<div class="related-wrapper">
+<div class="related-stories">
+<a href="http://www.espn.com/soccer/italian-serie-a/12/blog/post/3650019/roma-defeat-lazio-in-eternal-derby-serie-a-clash?src=com" target="_blank"><img src="http://a.espncdn.com/photo/2018/0929/r438829_1296x729_16-9.jpg"></a>
+<h3><a href="http://www.espn.com/soccer/italian-serie-a/12/blog/post/3650019/roma-defeat-lazio-in-eternal-derby-serie-a-clash?src=com" target="_blank">Wright Thompson: How Italian soccer gets into your blood</a></h3>
+</div>
+<div class="related-stories">
+<a href="http://www.espnluckindex.com/" target="_blank"><img src="http://a.espncdn.com/photo/2018/0806/r411144_1293x727_16-9.jpg"></a>
+<h3><a href="http://www.espnluckindex.com/" target="_blank">Presenting ESPN FC's Luck Index</a></h3>
+</div>
+<div class="related-stories">
+<a href="http://www.espn.com/soccer/uefa-champions-league/775/blog/post/3652882/its-time-to-fix-the-champions-league-or-start-a-european-mega-league" target="_blank"><img src="http://a.espncdn.com/photo/2018/1002/r440740_1296x729_16-9.jpg"></a>
+<h3><a href="http://www.espn.com/soccer/uefa-champions-league/775/blog/post/3652882/its-time-to-fix-the-champions-league-or-start-a-european-mega-league" target="_blank">Brian Phillips: How to fix -- and save -- the Champions League</a></h3>
+</div>
+<div class="related-stories">
+<a href="http://www.espn.com/espn/feature/story/_/id/22705066/chris-jones-takes-medical-everton" target="_blank"><img src="http://a.espncdn.com/photo/2018/0320/r343941_1296x729_16-9.png"></a>
+<h3><a href="http://www.espn.com/espn/feature/story/_/id/22705066/chris-jones-takes-medical-everton" target="_blank">Chris Jones: Can a 44-year-old man cut it in the Premier League?</a></h3>
+</div>
+</div>
+</div>
+<!-- End Related Stories --></div></section>
+</article>
+<div class="jumper"><h2>More Stories</h2><ul></ul><div style="clear:both"></div></div>
+</div><!-- end skrollr-body -->
+<script src="http://a.espncdn.com/combiner/c?v=79&js=pagetype/otl/eticket2018.v1.js,pagetype/otl/longform_styleguide/slick.js,pagetype/otl/longform_styleguide/styleguide.js,pagetype/otl/longform_styleguide/gallery.js,pagetype/otl/longform_styleguide/iphone-notch-fix.js"></script><script type="text/javascript">var espn = espn || {};espn.i18n = espn.i18n || {};espn.i18n.lang = "en";espn.i18n.siteId = "1";espn.i18n.site = "espn";espn.i18n.editionKey = "espn-en";</script>
+
+<script type="text/javascript">
+
+//Script to configure custom ads for longforms.
+// Ads are loaded off of click events or scrolls
+
+  var espn = espn || {};
+  espn.ads = espn.ads || {};
+
+(function($, document, window) {
+
+    var _inview = [],
+		    $document = $(document),
+		    $window = $(window),
+        scrolledAdsOnly = false;
+
+    //Initialize ad setup after the dom is finished loading
+    $(document).ready(function(){
+      setUpCustomAds();
+    });
+
+    //Event for handling clicks on dropdowns where we want to display ads
+    $(document).on("click", '[data-custom-ad]', function(event) {
+      if (_inview == undefined || _inview.length === 0){
+        setUpCustomAds();
+      }
+      setUpSlot(_inview[parseInt(event.target.getAttribute('count'))]);
+    });
+
+    //Event for handling inview ads on longforms that only requiring scrolling
+    $(document).scroll(function() {
+        if (scrolledAdsOnly && _inview.length > 0) {
+          for (var i = 0; i < _inview.length; i++) {
+
+            //calculation to check if the ad is in the view
+            var el = _inview[i];
+                hT = $(el).offset().top,
+                hH = $(el).outerHeight(),
+                wH = $(window).height(),
+                wS = $(this).scrollTop();
+
+            if (wS > (hT + hH - wH)) {
+                setUpSlot(el);
+
+                //remove from array to avoid continously setting up the slot
+                _inview.splice(i, 1);
+            }
+          }
+        } else {
+          scrolledAdsOnly = false;
+        }
+    });
+
+    /**
+		 * setUpCustomAds - calls getInviewSlots,
+     *                  sets up count attribute on click event elements,
+     *                  turns on scroll flag for articles without click events
+		 */
+    function setUpCustomAds(){
+      getInviewSlots();
+
+      var eventContainers = $('[data-custom-ad]');
+      if (eventContainers.length > 0 ){
+        for(var i = 0; i < eventContainers.length; i++){
+            $(eventContainers[i]).attr('count', i);
+        }
+      } else {
+        scrolledAdsOnly = true;
+      }
+
+    }
+
+    /**
+		 * setUpSlot - sets up the ad slot for GPT
+		 *
+		 * @param Element el (REQUIRED)
+		 *	The element that triggered the click event has the data count attribute that
+     *  determines the corresponding place to display the ad in the longform
+		 */
+    function setUpSlot(el){
+      var adSizeSet = true;
+
+      if (_inview.length > 0) {
+
+        //custom long form ad size
+        if (adSizeSet) {
+          espn.ads.config.sizes.incontent.defaultSize = [300, 600];
+          espn.ads.config.sizes.incontent.mappings[0].slot[0] = [300,600];
+          adSizeSet = false;
+        }
+
+        //add required classes and attributes for GPT configuration
+        if (el != undefined && el.className.indexOf('loaded') === -1) {
+          var $adSlot = el;
+          $adSlot.className = 'ad-slot ad-slot-incontent loaded';
+          $adSlot.setAttribute('data-slot-type', 'incontent');
+          $adSlot.setAttribute('data-slot-kvps','pos=incontent');
+
+          window.admgr.initSlot($adSlot, espn.ads.config);
+        }
+      }
+    }
+
+    /**
+		 * getInviewSlots - places all the div ad slots on the page in an array
+		 */
+    function getInviewSlots() {
+      var adClass = '.longformAd';
+      	_inview = $('body').find(adClass);
+    }
+
+  })(window.jQuery, document, window, undefined);
+</script><script type="text/javascript" src="http://a.espncdn.com/legacy/transitionalHeader/1.4.4/js/espn-ads-external.js"></script>
+	<!-- SiteCatalyst code version: AppMeasurement 1.0 Copyright 1996-2013 Adobe, Inc. -->
+	<script type="text/javascript">
+		var undef = 'undefined'
+		,msUrl = 'https://r.espn.com/members/util/getUserInfo?cb=runOmnitureIndependently&regType=true'
+		,s_account="wdgespsoccernet"
+		,omniSite = "espnfc"
+		,omniPageName = "espnfc:soccer:story"	// pagename value for video (freewheel)
+		
+		,initTracking = function() {
+			var ems = espn.memberservices || {},
+				loginStatus = ems.loginStatus ? ems.loginStatus : "anonymous",
+				year = ems.bYear ? ems.bYear : "unknown",
+				gender = ems.gender ? ems.gender : "unknown",
+				age = ems.bDate ? ems.bDate : "unknown",
+				hasStorage = espn.storage ? true : false,
+				entitlements = hasStorage ? decodeURIComponent(espn.storage.getItem('dtcEntitlements')) : "no storage",
+				entitleList,
+				insider = ems.insider ? ems.insider : "insider-no",
+				regType = ems.regType ? ems.regType : "unknown",
+				premium = "premium-no",
+				
+				key = [year, gender, loginStatus, insider, premium].join(':');
+
+			// set entitlements variable
+			if (entitlements != "null" && entitlements != ""){
+				entitleList = entitlements;
+			} else {
+				entitleList = "none";
+			}
+
+			espn.track.trackPage({
+				pageName:"soccer:story",
+				site:"espnfc",
+				section:"soccer",
+				sections:"soccer:story",
+				contentType:"story",
+				source:"espn+fc",
+				storyInfo:"storyid=25145480-jose+mourinhos+last+stand",
+				lang: espn && espn.i18n && (espn.i18n.lang + '_' + espn.i18n.country) || 'en',
+				columnist:"borden_sam",
+				sport:"soccer",
+				league:"no+league",
+				convrSport:"soccer",
+				hier1:"soccer:story",
+				convPageName:"soccer:story",
+				orientation:"Desktop",
+				deviceInfo:"Desktop",
+				enableCB:false,
+				
+				cbSettings: {
+				loadPubJS: false
+				,domain:"espn.com"
+				,sections:"eticket, soccer"
+				,authors:"stories, eticket"
+				
+				},
+				insiderStatus: [insider,premium].join(":"),
+				loginStatus: ems.loginStatus,
+				regType: ems.regType,
+				userKey: key,
+				fantasyPersonalize: espn.track.favStatus,
+				if(hasStorage){list1: entitleList}
+			});
+		};
+
+		// Delayed request
+		
+
+			if (typeof s_omni === undef) {
+				(function($) {
+					var loadUserData = ($('#form-memberarea').length > 0 || espn && espn.memberservices && espn.memberservices.userData === '');
+					$.ajaxSetup({ cache: true });
+					// we want to load the analytics files from the cache if possible - so, let's use full $.ajax() calls
+					$.getScript("http://a.espncdn.com/combiner/c?js=analytics/visitorAPI_156.js,analytics/sOmni.2.js,analytics/analytics.2.js&v=40", function() {
+						espn.track.favStatus = "has favorites:no-fantasy:no-notifications:no-docking:no-autostart:no";
+						espn.track.init({
+							initCB:true,
+							chartbeat: {
+								loadPubJS: false
+								,domain:"espn.com"
+								,sections:"eticket, soccer"
+								,authors:"stories, eticket"
+								
+							}
+						});
+
+						if(loadUserData === true) {
+							// $(document).on('user.parsed', initTracking);
+							$.getScript(msUrl); // we don't want this to be cached - so we'll use the $.getScript() method
+						} else {
+							initTracking();
+						}
+					});
+				}(jQuery));
+			}
+
+		
+
+	</script>
+
+	<!-- End SiteCatalyst code version: AppMeasurement 1.0 --></body></html>
